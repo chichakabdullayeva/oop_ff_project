@@ -1,0 +1,520 @@
+{
+    "rooms": [
+        {
+            "id": "7c580678-ab9f-4df6-a302-e3f16c2bf39d",
+            "created_at": "2025-11-25T09:37:16.053629+00:00",
+            "updated_at": "2025-11-25T09:37:16.053633+00:00",
+            "number": "101",
+            "room_type": "standard",
+            "rate_per_night": 120.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "f1bf5751-6fd1-430e-8462-48f6fec7e49c",
+            "created_at": "2025-11-25T09:37:16.056179+00:00",
+            "updated_at": "2025-11-25T09:37:16.056183+00:00",
+            "number": "201",
+            "room_type": "suite",
+            "rate_per_night": 250.0,
+            "capacity": 4,
+            "is_available": true
+        },
+        {
+            "id": "d5463033-f51d-448e-939f-aa076e996b98",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "96f6282a-6851-4c37-bc41-347d5b6de493",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "6913e6c8-565c-49a0-a155-812ade86969f",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "d1c4d00e-8eea-4976-bc35-b7ea253f48a7",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "b37064cd-a03b-4324-957f-3dd64742824e",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "553c4aab-5f10-4deb-86e8-ab37a926f08a",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "91390db6-f4fe-4c80-99f2-660b81bce5e7",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "42414ba1-5e4f-47de-b40c-5db342381aba",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "56fb2e19-5b52-4f34-92dc-ae81218137c8",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "46702f2d-982a-47d6-a0dd-c5a4833981bd",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "ce78d986-92da-4bd2-8322-cdbee8569094",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "cc85b24a-8b62-400d-a81a-68e7865aeb6a",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "a71caa24-7b42-40bf-b2ea-f053f52bf070",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "f5f6361b-48b1-4756-bf85-f6db5d708853",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "dc0ada92-ae4d-4a40-8467-a605269827bc",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "aba84b9f-983d-4d5a-a901-87745063913b",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "631671eb-5611-47c3-8ded-a431f3c15aeb",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "71258e93-21e0-4317-941b-7b26d47fe8eb",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "1f3c37a1-6333-4670-8a7a-7db72e8bf14f",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "6440edee-5562-4273-809f-28b53322824e",
+            "number": "101",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "9d19a979-caf6-45ff-9606-188d9dc91f94",
+            "number": "201",
+            "room_type": "suite",
+            "price_per_night": 200.0,
+            "capacity": 4,
+            "is_available": true
+        },
+        {
+            "id": "6cda4327-16c8-477e-88f6-7699380e8a9b",
+            "number": "301",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": false
+        },
+        {
+            "id": "aa883509-af73-47a6-8cf3-1ae3cf30ded8",
+            "number": "401",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "f1a81c06-606f-430a-b87c-406c565d7e5e",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "55303ad9-bf67-46ed-bc46-1ce46d743f22",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "395727b9-93d0-4bc2-840e-93de1addef96",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "3033aa2a-7f93-4600-94c1-9cc619f79331",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "ae15b6af-0183-4326-8a78-d10f8c72218a",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "a00f7e39-60f4-4871-8cd3-a69ba8e6758a",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "5aecbd26-c2aa-45a2-b12e-cfb8c51bd03b",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "b7caf0f9-9820-485d-814f-c36ed7bedb5d",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "6072ea39-d5af-4691-abfb-2a289cb64f4c",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "1a92827a-ba86-416b-8c2a-191eb63a8f4a",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "4b00efb0-9cab-4ed0-9ab0-244087812d1c",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "61f0b349-a0d5-4ac5-9063-00ed01decbba",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "cd0d962c-83f0-4ac9-8345-726afb702f83",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "29e9793b-c2e1-4cc8-af8d-0395a3c7b1b0",
+            "number": "101",
+            "room_type": "standard",
+            "price_per_night": 100.0,
+            "capacity": 2,
+            "is_available": true
+        },
+        {
+            "id": "f418426c-80ed-41c9-b2f8-4a23782568a7",
+            "number": "102",
+            "room_type": "deluxe",
+            "price_per_night": 150.0,
+            "capacity": 2,
+            "is_available": true
+        }
+    ],
+    "guests": [
+        {
+            "id": "48dc99df-8e72-4cec-a18a-c4b4425fba26",
+            "created_at": "2025-11-25T09:37:16.092972+00:00",
+            "updated_at": "2025-11-25T09:37:16.092975+00:00",
+            "full_name": "Demo Guest",
+            "email": "demo@example.com",
+            "phone": "000-000-0000"
+        },
+        {
+            "id": "1090ddc3-069f-4ecd-81ec-6a9028e83cc7",
+            "created_at": "2025-11-25T09:37:40.761896+00:00",
+            "updated_at": "2025-11-25T09:37:40.761898+00:00",
+            "full_name": "Demo Guest",
+            "email": "demo@example.com",
+            "phone": "000-000-0000"
+        },
+        {
+            "id": "4740bb41-237a-4b66-9360-eb7fa30398ab",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "56b272de-0021-4fc1-9e53-028421f52219",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "eff6b5ea-d212-4d6c-a5d0-1f08256cef1b",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "3a0a757f-a301-4333-9ac0-c8b00ef9dbf0",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "71885f55-4a81-4a53-8df1-7fd60fadf49e",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "da61b62c-4b96-4117-83d5-03ef286a7205",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "d25a30cf-d4c7-423c-a2b8-3f518cea4743",
+            "name": "Test User",
+            "email": "test@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "79a75e51-2372-4356-b071-b401c136bcf6",
+            "name": "Jane Doe",
+            "email": "jane@test.com",
+            "phone": "5555555555"
+        },
+        {
+            "id": "0089e6fe-4803-4d80-bb87-8b477b18e44b",
+            "name": "",
+            "email": "test@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "772c6b8d-8667-49bd-8105-e0df1c6dac2f",
+            "name": "User1",
+            "email": "user1@test.com",
+            "phone": "1111111111"
+        },
+        {
+            "id": "340e0215-1d65-45e7-b32c-d7758be6a212",
+            "name": "User2",
+            "email": "user2@test.com",
+            "phone": "2222222222"
+        },
+        {
+            "id": "f1e32e20-3066-4a7d-9ce5-33b582813452",
+            "name": "User3",
+            "email": "user3@test.com",
+            "phone": "3333333333"
+        },
+        {
+            "id": "8416d6d9-134e-49dc-92d7-1ce4f84d6486",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "2c2d1089-ffd2-41c1-9b27-05fb9391bbbe",
+            "name": "",
+            "email": "test@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "de300e83-cc68-4aa5-bf23-83dd09637d03",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "d812853c-fd29-4ecf-9b7e-a2c5d226dfb0",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "4229bcd1-777f-4d99-8fe2-9aa3ef9e9ae8",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        },
+        {
+            "id": "ffc25429-0151-4d8b-8aa8-d7fefc68e9bd",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "1234567890"
+        }
+    ],
+    "reservations": [
+        {
+            "id": "b27ec22d-e06f-432b-9cbb-dc321e46cff8",
+            "created_at": "2025-11-25T09:37:16.094694+00:00",
+            "updated_at": "2025-11-25T09:37:16.094699+00:00",
+            "guest_id": "48dc99df-8e72-4cec-a18a-c4b4425fba26",
+            "room_id": "7c580678-ab9f-4df6-a302-e3f16c2bf39d",
+            "check_in": "2025-11-26",
+            "check_out": "2025-11-28",
+            "status": "pending"
+        },
+        {
+            "id": "2d1a0035-728a-410a-b1ce-5d86adc06fc8",
+            "created_at": "2025-11-25T09:37:40.763292+00:00",
+            "updated_at": "2025-11-25T09:37:40.763296+00:00",
+            "guest_id": "1090ddc3-069f-4ecd-81ec-6a9028e83cc7",
+            "room_id": "7c580678-ab9f-4df6-a302-e3f16c2bf39d",
+            "check_in": "2025-11-26",
+            "check_out": "2025-11-28",
+            "status": "pending"
+        },
+        {
+            "id": "aebc3078-4cdd-488b-af49-d14cf88c1972",
+            "guest_id": "79a75e51-2372-4356-b071-b401c136bcf6",
+            "room_id": "9d19a979-caf6-45ff-9606-188d9dc91f94",
+            "check_in_date": "2024-12-01",
+            "check_out_date": "2024-12-05",
+            "status": "cancelled"
+        },
+        {
+            "id": "006dfbec-cb51-4639-8d74-98d894f49847",
+            "guest_id": "772c6b8d-8667-49bd-8105-e0df1c6dac2f",
+            "room_id": "6cda4327-16c8-477e-88f6-7699380e8a9b",
+            "check_in_date": "2024-01-01",
+            "check_out_date": "2024-01-05",
+            "status": "pending"
+        },
+        {
+            "id": "59d4905a-61b8-4598-8456-478a0ddee255",
+            "guest_id": "f1e32e20-3066-4a7d-9ce5-33b582813452",
+            "room_id": "aa883509-af73-47a6-8cf3-1ae3cf30ded8",
+            "check_in_date": "2024-02-01",
+            "check_out_date": "2024-02-05",
+            "status": "cancelled"
+        }
+    ],
+    "payments": [
+        {
+            "id": "73513755-1a67-4299-b304-84074db4aeaa",
+            "created_at": "2025-11-25T09:37:16.115448+00:00",
+            "updated_at": "2025-11-25T09:37:16.115453+00:00",
+            "reservation_id": "b27ec22d-e06f-432b-9cbb-dc321e46cff8",
+            "amount": 120.0,
+            "method": "card",
+            "status": "authorized"
+        },
+        {
+            "id": "3d9118cd-7a12-4135-bf64-ecff9bfa18a3",
+            "created_at": "2025-11-25T09:37:40.775174+00:00",
+            "updated_at": "2025-11-25T09:37:40.775177+00:00",
+            "reservation_id": "2d1a0035-728a-410a-b1ce-5d86adc06fc8",
+            "amount": 120.0,
+            "method": "card",
+            "status": "authorized"
+        }
+    ]
+}
