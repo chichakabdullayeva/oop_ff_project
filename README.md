@@ -262,10 +262,3 @@ python -m unittest discover tests -v
 - Keep It Simple (KISS)
 - Separation of Concerns
 
-## License
-
-This is an educational project demonstrating OOP principles and design patterns.
-
-## Author
-
-OOP Final Project(Hotel Reservation System)
