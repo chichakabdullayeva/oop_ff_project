@@ -27,21 +27,28 @@ class TestReservationService(unittest.TestCase):
                 pass
     
     def test_add_room(self):
-        """Test adding a room."""
-        room = self.service.add_room("999", "standard", 100.0, 2)
+        """Test adding a room with unique number."""
+        import uuid
+        unique_number = f"TEST-{uuid.uuid4().hex[:6]}"
+        room = self.service.add_room(unique_number, "standard", 100.0, 2)
         self.assertIsNotNone(room.id)
-        self.assertEqual(room.number, "999")
+        self.assertEqual(room.number, unique_number)
     
     def test_add_guest(self):
         """Test adding a guest."""
-        guest = self.service.add_guest("John Doe", "john@example.com", "1234567890")
+        import uuid
+        unique_email = f"test-{uuid.uuid4().hex[:8]}@example.com"
+        guest = self.service.add_guest("John Doe", unique_email, "1234567890")
         self.assertIsNotNone(guest.id)
         self.assertEqual(guest.name, "John Doe")
     
     def test_get_all_rooms(self):
         """Test getting all rooms."""
-        self.service.add_room("888", "standard", 100.0, 2)
-        self.service.add_room("889", "deluxe", 150.0, 2)
+        import uuid
+        room_num1 = f"TEST-{uuid.uuid4().hex[:6]}"
+        room_num2 = f"TEST-{uuid.uuid4().hex[:6]}"
+        self.service.add_room(room_num1, "standard", 100.0, 2)
+        self.service.add_room(room_num2, "deluxe", 150.0, 2)
         rooms = self.service.get_all_rooms()
         self.assertGreaterEqual(len(rooms), 2)
 
